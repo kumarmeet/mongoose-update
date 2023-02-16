@@ -1,0 +1,563 @@
+{
+    "_id" : ObjectId("63eded6c4a15e45c75910df4"),
+    "physical" : [
+        {
+            "title" : "Active",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910df5")
+        },
+        {
+            "title" : "Assertive",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910df6")
+        },
+        {
+            "title" : "Athletic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910df7")
+        },
+        {
+            "title" : "Exotic",
+            "status" : false,
+            "_id" : ObjectId("63eded6c4a15e45c75910df8")
+        },
+        {
+            "title" : "Extrovert",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910df9")
+        },
+        {
+            "title" : "Masculine",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910dfa")
+        },
+        {
+            "title" : "Interesting",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910dfb")
+        },
+        {
+            "title" : "Sensitive",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910dfc")
+        },
+        {
+            "title" : "Urban",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910dfd")
+        },
+        {
+            "title" : "Suave",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910dfe")
+        },
+        {
+            "title" : "Buff",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910dff")
+        },
+        {
+            "title" : "Fit",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e00")
+        },
+        {
+            "title" : "Energetic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e01")
+        },
+        {
+            "title" : "Petite",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e02")
+        },
+        {
+            "title" : "Stylish",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e03")
+        },
+        {
+            "title" : "Fire cracker",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e04")
+        },
+        {
+            "title" : "Soft spoken",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e05")
+        },
+        {
+            "title" : "new data",
+            "status" : true,
+            "_id" : ObjectId("63edf73aec8b77408c74dc14")
+        }
+    ],
+    "intellectual" : [
+        {
+            "title" : "Academic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e06")
+        },
+        {
+            "title" : "Ambitious",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e07")
+        },
+        {
+            "title" : "Bright",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e08")
+        },
+        {
+            "title" : "Charismatic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e09")
+        },
+        {
+            "title" : "Depth",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e0a")
+        },
+        {
+            "title" : "Ethical",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e0b")
+        },
+        {
+            "title" : "Grounded",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e0c")
+        },
+        {
+            "title" : "Independent",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e0d")
+        },
+        {
+            "title" : "Loyal",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e0e")
+        },
+        {
+            "title" : "Polite",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e0f")
+        },
+        {
+            "title" : "Sharp",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e10")
+        },
+        {
+            "title" : "Witty",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e11")
+        },
+        {
+            "title" : "Trustworthy",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e12")
+        },
+        {
+            "title" : "Steady",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e13")
+        },
+        {
+            "title" : "Well read",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e14")
+        },
+        {
+            "title" : "Driven",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e15")
+        },
+        {
+            "title" : "Honest",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e16")
+        },
+        {
+            "title" : "Has Integrity",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e17")
+        },
+        {
+            "title" : "Intelligent",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e18")
+        }
+    ],
+    "sociable" : [
+        {
+            "title" : "Adorable",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e19")
+        },
+        {
+            "title" : "Adventurous",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e1a")
+        },
+        {
+            "title" : "Bubbly",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e1b")
+        },
+        {
+            "title" : "Communicative",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e1c")
+        },
+        {
+            "title" : "Confident",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e1d")
+        },
+        {
+            "title" : "Dynamic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e1e")
+        },
+        {
+            "title" : "Engaged in life",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e1f")
+        },
+        {
+            "title" : "Enthusiastic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e20")
+        },
+        {
+            "title" : "Friendly",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e21")
+        },
+        {
+            "title" : "Fun",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e22")
+        },
+        {
+            "title" : "Funny",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e23")
+        },
+        {
+            "title" : "Happy",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e24")
+        },
+        {
+            "title" : "Well traveled",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e25")
+        },
+        {
+            "title" : "Open minded",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e26")
+        },
+        {
+            "title" : "Vivacious",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e27")
+        },
+        {
+            "title" : "Warm",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e28")
+        },
+        {
+            "title" : "Well spoken",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e29")
+        },
+        {
+            "title" : "Positive",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e2a")
+        },
+        {
+            "title" : "Responsible",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e2b")
+        }
+    ],
+    "artistic" : [
+        {
+            "title" : "Creative",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e2c")
+        },
+        {
+            "title" : "Calm",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e2d")
+        },
+        {
+            "title" : "Emotionally independent",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e2e")
+        },
+        {
+            "title" : "Feminine",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e2f")
+        },
+        {
+            "title" : "Good listener",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e30")
+        },
+        {
+            "title" : "Intuitive",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e31")
+        },
+        {
+            "title" : "Laid back",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e32")
+        },
+        {
+            "title" : "Playful",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e33")
+        },
+        {
+            "title" : "Relaxed",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e34")
+        },
+        {
+            "title" : "Romantic",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e35")
+        },
+        {
+            "title" : "Sense of humour",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e36")
+        },
+        {
+            "title" : "Vibrant",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e37")
+        },
+        {
+            "title" : "Spiritual",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e38")
+        },
+        {
+            "title" : "Talented",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e39")
+        },
+        {
+            "title" : "Cultured",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e3a")
+        },
+        {
+            "title" : "Shy",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e3b")
+        }
+    ],
+    "nurturerOrDutyBound" : [
+        {
+            "title" : "Balanced",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e3c")
+        },
+        {
+            "title" : "Caring",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e3d")
+        },
+        {
+            "title" : "Centred",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e3e")
+        },
+        {
+            "title" : "Committed",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e3f")
+        },
+        {
+            "title" : "Compassionate",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e40")
+        },
+        {
+            "title" : "Considerate",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e41")
+        },
+        {
+            "title" : "Down to earth",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e42")
+        },
+        {
+            "title" : "Family oriented",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e43")
+        },
+        {
+            "title" : "Generous",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e44")
+        },
+        {
+            "title" : "Genuine",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e45")
+        },
+        {
+            "title" : "Kind",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e46")
+        },
+        {
+            "title" : "Loving",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e47")
+        },
+        {
+            "title" : "Reliable",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e48")
+        },
+        {
+            "title" : "Sincere",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e49")
+        },
+        {
+            "title" : "Thoughtful",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e4a")
+        },
+        {
+            "title" : "Understanding",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e4b")
+        },
+        {
+            "title" : "Even mannered",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e4c")
+        },
+        {
+            "title" : "Faithful",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e4d")
+        }
+    ],
+    "material" : [
+        {
+            "title" : "Accomplished",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e4e")
+        },
+        {
+            "title" : "Charming",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e4f")
+        },
+        {
+            "title" : "Classy",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e50")
+        },
+        {
+            "title" : "Distinguished",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e51")
+        },
+        {
+            "title" : "Financially secure",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e52")
+        },
+        {
+            "title" : "Gentlemanly",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e53")
+        },
+        {
+            "title" : "Leader",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e54")
+        },
+        {
+            "title" : "Respectful",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e55")
+        },
+        {
+            "title" : "Secure",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e56")
+        },
+        {
+            "title" : "Sexy",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e57")
+        },
+        {
+            "title" : "Stable",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e58")
+        },
+        {
+            "title" : "Successful",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e59")
+        },
+        {
+            "title" : "Sophisticated",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e5a")
+        },
+        {
+            "title" : "Well dressed",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e5b")
+        },
+        {
+            "title" : "Worldly",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e5c")
+        },
+        {
+            "title" : "Global minded",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e5d")
+        },
+        {
+            "title" : "Jet setter",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e5e")
+        },
+        {
+            "title" : "Powerful",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e5f")
+        },
+        {
+            "title" : "Polished",
+            "status" : true,
+            "_id" : ObjectId("63eded6c4a15e45c75910e60")
+        }
+    ],
+    "createdAt" : ISODate("2023-02-16T08:46:36.516+0000"),
+    "updatedAt" : ISODate("2023-02-16T09:28:26.139+0000"),
+    "__v" : NumberInt(0)
+}
